@@ -124,3 +124,6 @@ where dea.continent is not null
 
 select *
 from PercentpopulationVaccinated
+
+-- Clik the link for tableau dash board 
+https://public.tableau.com/app/profile/sandun.balage/viz/CovidDataTableauTutorial/Dashboard1
